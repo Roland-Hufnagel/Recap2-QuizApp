@@ -64,3 +64,7 @@ img {
   height: auto;
   display: block;
 }
+
+.active {
+  background-color: lightgray;
+}

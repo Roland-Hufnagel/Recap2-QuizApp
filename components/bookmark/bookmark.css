@@ -1,6 +1,7 @@
 .bookmark {
   border: none;
-  padding: 0.5rem;
+  width: 3rem;
+  height: 3rem;
   border-radius: 50%;
   background: var(--secondary);
   color: var(--white);
@@ -16,4 +17,5 @@
 
 .bookmark__icon {
   fill: currentcolor;
+  width: 2em;
 }
